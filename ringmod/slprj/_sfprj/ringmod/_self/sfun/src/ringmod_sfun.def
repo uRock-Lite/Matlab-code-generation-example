@@ -1,0 +1,3 @@
+LIBRARY ringmod_sfun.mexw64
+EXPORTS
+mexFunction
